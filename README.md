@@ -23,11 +23,7 @@
 - Java **21**
 
 
-```bash
-git clone https://github.com/phyrobyte/Toba-Client.git
-cd Toba-Client
-./gradlew build
-```
+
 
 The built jar will be in `build/libs/`.
 
